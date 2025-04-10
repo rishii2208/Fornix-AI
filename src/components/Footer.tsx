@@ -54,22 +54,22 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin size={18} className="text-theme-blue mr-3 mt-1 flex-shrink-0" />
-                <span className="text-sm text-theme-light/70">123 Innovation Avenue<br />Tech Valley, CA 94103</span>
+                <span className="text-sm text-theme-light/70">Gurugram.India</span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="text-theme-blue mr-3 flex-shrink-0" />
-                <span className="text-sm text-theme-light/70">(555) 123-4567</span>
+                <span className="text-sm text-theme-light/70">+918700168283</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="text-theme-blue mr-3 flex-shrink-0" />
-                <span className="text-sm text-theme-light/70">info@auratech.ai</span>
+                <span className="text-sm text-theme-light/70">rishirajprajapati22@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-white/10 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm text-theme-light/50">© 2025 AuraTech. All rights reserved.</p>
+          <p className="text-sm text-theme-light/50">© 2025 Fornix AI. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-sm text-theme-light/50 hover:text-theme-light">Privacy Policy</a>
             <a href="#" className="text-sm text-theme-light/50 hover:text-theme-light">Terms of Service</a>
