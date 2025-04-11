@@ -6,7 +6,7 @@ const teamMembers = [
     name: 'Rishi ',
     role: 'CEO & AI Architect',
     image: 'https://images.unsplash.com/photo-1696871105725-1c040dad8d1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60',
-    bio: '10+ years experience in AI systems and automation technologies.',
+    bio: '2+ years experience in AI systems and automation technologies.',
   },
   {
     name: 'Dhruv',
